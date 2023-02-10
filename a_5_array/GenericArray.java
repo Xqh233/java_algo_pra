@@ -2,6 +2,7 @@ package a_5_array;
 
 public class GenericArray<T> {
     private T[] data;
+    // alias to size
     private int count;
 
     public GenericArray(int capacity) {
