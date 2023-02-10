@@ -112,6 +112,7 @@ public class GenericArray<T> {
     }
 
     public static void main(String[] args) {
+        // for test
         GenericArray<String> arr = new GenericArray<>(2);
         arr.add("a");
         arr.add("b");
