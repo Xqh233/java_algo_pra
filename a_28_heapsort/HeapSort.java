@@ -1,6 +1,7 @@
-package a_28_headsort;
+package a_28_heapsort;
 
 import java.util.Arrays;
+
 
 
 public class HeapSort {
